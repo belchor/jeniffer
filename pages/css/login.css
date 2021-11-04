@@ -1,0 +1,57 @@
+* {
+    margin: 0, 0, 0, 0;
+    padding: 0, 0, 0, 0;
+}
+
+
+#cabecalho {
+    /*background-color:  rgba(0, 0, 0, 0);*/
+    display: block;
+    top: 0px;
+    left: 0 auto;
+    background-color: rgb(5, 68, 151);
+    color: white;
+    padding: 20px;
+    height: 80px;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+
+#logo img   {
+    position: inherit;
+    top: 37px;
+    display: block;
+    width: 240px;
+    height: 73px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    display: inline-block;
+    font: 22px "sans-serif";
+    margin: 5px;
+    padding: 1px;
+}
+
+li:hover {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+ul {
+    position: absolute;
+    top: 37px;
+    right: 200px;
+    top: 0 auto;
+    float: left;
+}
+
+
+

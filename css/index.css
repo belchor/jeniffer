@@ -1,0 +1,108 @@
+
+body{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.flogo{
+    width: 1131px;
+    height: 100px;
+    background-color:rgb(5, 68, 151); 
+    margin: 0 auto;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+} 
+.logo{
+    height: 40px; 
+    padding: 23px; 
+    
+} 
+/*--Logo--*/
+
+.menu_principal{
+    background-color: #D3D3D3;
+    width: 1131px;
+    height: 35px;
+    padding-top: 13px;
+    padding-bottom: 0px;
+    margin: 0 auto; 
+    text-align: center;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.menu_principal a{
+    text-decoration: none;
+    color: black    ;
+    padding-right: 75px;
+    font-size: 20px;
+  
+    
+}
+.menu_principal a:hover{
+color: blue;
+} 
+/*--Menu--*/
+.conteudo{
+    margin:  0 auto;
+    width: 1131px;
+    font-style: normal;
+    color: grey; 
+}
+.cont_title{
+    background-color: white;
+    text-align: center;
+    font-size: 18px;
+    
+}
+hr {
+	border: 0;
+	border-top: 3px solid rgb(5, 68, 151);
+    width: 150px;
+    bottom: 30px;
+}
+
+.cont_title h3{
+    font-size: 56px;
+}
+.title_menor{
+    font-size: 20px;
+}
+#cont{
+background-color: grey;
+width: 1131px;
+margin:0 auto;
+}
+.cont_cont{
+
+float: left;
+width: 20px;
+padding-top: 30px;
+}
+.l1{
+    position: relative;
+    left:150px;
+}
+.l2{
+    position: relative;
+    left: 350px;
+}
+.l3{
+    position: relative;
+    left: 530px;
+}
+.l4{
+    position: relative;
+    left: 700px;
+}
+.cont p{
+    font-size: 14px;
+}
+
+/*--Conteudo*/
+#rod{
+    background-color: grey;
+      position:absolute;
+    margin: 0px;
+
+}
+/*Rodapé*/

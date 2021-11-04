@@ -1,0 +1,25 @@
+.EVENTOS {
+
+height: 100px;
+    width: 100px;
+}
+h1{
+    color: black
+}
+h2{
+    color: cadetblue;
+}
+
+
+h2 {
+    background-color: mediumslateblue;
+    padding: 5px;
+    margin: 5px;
+}
+
+#titulo {
+    background-color: mediumslateblue;
+    padding: 10px;
+    margin: 10px;
+    
+}
