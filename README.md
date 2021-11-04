@@ -1,1 +1,1 @@
-# https://github.com/belchor/jeniffer.git
+# https://belchor.github.io/jeniffer/
